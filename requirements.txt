@@ -1,0 +1,11 @@
+requests==2.32.3
+pydub==0.25.1
+torch==2.2.2
+torchaudio==2.2.2
+transformers==4.48.0
+spacy==3.8.4
+streamlit==1.41.1
+folium==0.19.4
+sounddevice==0.5.1
+soundfile==0.13.0
+streamlit_folium==0.24.0
